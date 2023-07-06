@@ -36,7 +36,7 @@ int main(void)
       lcd.cmd(0x01);
       lcd.cmd(0x0C);
 
-      if (distance < 4.0)
+      if (distance < 4.0) //ensures the counting only occurs when ball goes through the hoop 
       {
         // Increment the object count
         objectCount++;
