@@ -1,0 +1,11 @@
+LCD	KEYWORD1
+init	KEYWORD2
+cmd	KEYWORD2
+toggleE	KEYWORD2
+dely_ns	KEYWORD2
+dispchar KEYWORD2
+stringg	KEYWORD2
+showvalue	KEYWORD2
+line1	KEYWORD2
+line2	KEYWORD2
+exit	KEYWORD2
